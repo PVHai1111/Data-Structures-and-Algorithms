@@ -1,3 +1,4 @@
+// This is the best coding style in C (modular programming)
 #include <iostream>
 #include <stdio.h>
 #include <stdlib.h>
